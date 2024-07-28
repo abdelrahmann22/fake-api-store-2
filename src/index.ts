@@ -1,5 +1,4 @@
 import { Products } from "./modules/products.js";
-
 console.log("Hello");
 
 const products = new Products();
